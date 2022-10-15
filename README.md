@@ -6,11 +6,14 @@ Senior Frontend Engineer
 
 I am a Front-end engineer with 8 years of experience who is passionate about building secure, reliable, and high-quality web applications.
 
-*   🌍  I'm based in Lagos, Nigeria
-*   ✉️  You can contact me at [johnsontinuoye@gmail.com](mailto:johnsontinuoye@gmail.com)
-*   🚀  I'm currently working on [Aviyel](http://aviyel.com)
-*   🧠  I'm learning Solidity
-*   🤝  I'm open to collaborating on interesting projects### Skills 
+* 🌍  I'm based in Lagos, Nigeria
+* ✉️  You can contact me at [johnsontinuoye@gmail.com](mailto:johnsontinuoye@gmail.com)
+* 🚀  I'm currently working on [Aviyel](http://aviyel.com)
+* 🧠  I'm learning Solidity
+* 🤝  I'm open to collaborating on interesting projects
+
+### Skills
+
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -38,16 +41,14 @@ I am a Front-end engineer with 8 years of experience who is passionate about bui
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
-                    
-                    
+
 ### Socials
-                  
-                  
-<p align="left">
 
-  <a href="https://www.github.com/jayteekay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.github.com/jayteekay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//johnson-tinuoye-473758b4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jokotinu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
 
-  <a href="https://www.linkedin.com/in//johnson-tinuoye-473758b4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<b>My GitHub Stats</b>
 
-  <a href="https://www.twitter.com/jokotinu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-  href="http://www.github.com/jayteekay"><img src="https://github-readme-stats.vercel.app/api?username=jayteekay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jayteekay's GitHub stats" /></a><a href="https://github.com/jayteekay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayteekay&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/jayteekay"><img src="https://github-readme-stats.vercel.app/api?username=jayteekay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jayteekay's GitHub stats" /></a>
+
+<a href="https://github.com/jayteekay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayteekay&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
