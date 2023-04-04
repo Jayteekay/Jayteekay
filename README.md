@@ -8,7 +8,7 @@ I am a Front-end engineer with 8 years of experience who is passionate about bui
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [johnsontinuoye@gmail.com](mailto:johnsontinuoye@gmail.com)
-* 🚀  I'm currently working on [Aviyel](http://aviyel.com)
+* 🚀  I'm currently working on [Dock](http://dock.io)
 * 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on interesting projects
 
