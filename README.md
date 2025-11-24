@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Frontend Engineer
 ------------------------
 
-I am a Front-end engineer with 8 years of experience who is passionate about building secure, reliable, and high-quality web applications.
+I am a Senior Fullstack Engineer and Founder with 9 years of experience who is passionate about building secure, reliable, and high-quality web applications.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [johnsontinuoye@gmail.com](mailto:johnsontinuoye@gmail.com)
-* 🚀  I'm currently working on [Dock](http://dock.io)
-* 🧠  I'm learning Solidity
+* 🚀  I'm currently working on [Sprungg](https://sprungg.co)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
